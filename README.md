@@ -20,7 +20,7 @@ git clone https://github.com/digitalfortress-dev/git-template.git
 
 ## License
 
-This project is Copyright (c) 2014 and onwards Digital Fortress. It is free software and may be redistributed under the terms specified in the [LICENSE] file.
+This project is Copyright (c) 2023 and onwards Digital Fortress. It is free software and may be redistributed under the terms specified in the [LICENSE] file.
 
 [LICENSE]: /LICENSE
 
